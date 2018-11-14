@@ -25,6 +25,7 @@ namespace oportunidade {
 
         public ItemRelevantInfo(params string[] _relevantText) {
             this.rawTexts = _relevantText;
+            this.tituloTopico = _relevantText[0];
 
             this.bakedTexts = this.rawTexts
                 .Select(raw => raw.ToLower())
