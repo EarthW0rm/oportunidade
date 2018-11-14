@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.0/feed-palavras.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.0/oportunidade.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",

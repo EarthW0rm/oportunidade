@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/feed-palavras.csproj"
+                "${workspaceFolder}/oportunidade.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
